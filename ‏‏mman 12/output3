@@ -1,0 +1,84 @@
+Welcom. Please insert 81 values (0 or 1) for the 9*9 matrix that defines the tree:
+
+ The matrix you inserted is:
+0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	
+1	0	0	1	0	0	0	1	1	
+0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	0	0	0	
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 10 
+Your v is: 1 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 8 
+Your v is: 2 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 8 
+Your v is: 4 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 5 
+Your v is: 6 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 5 
+Your v is: 7 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 5 
+Your v is: 1 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 0 
+Your v is: 7 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 4 
+Your v is: 5 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 3 
+Your v is: 6 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 19 
+Your v is: 6 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 5 
+Your v is: 2 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 7 
+Your v is: 5 
+
+FALSE!

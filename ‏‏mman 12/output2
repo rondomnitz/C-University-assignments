@@ -1,0 +1,44 @@
+Welcom. Please insert 25 values (0 or 1) for the 5*5 matrix that defines the tree:
+
+ The matrix you inserted is:
+0	1	0	1	1	
+0	0	1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 0 
+Your v is: 4 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 2 
+Your v is: 3 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 4 
+Your v is: 1 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 2 
+Your v is: 0 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 3 
+Your v is: 4 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 0 
+Your v is: 2 
+
+TRUE!

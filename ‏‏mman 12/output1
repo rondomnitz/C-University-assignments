@@ -1,0 +1,38 @@
+Welcom. Please insert 121 values (0 or 1) for the 11*11 matrix that defines the tree:
+
+ The matrix you inserted is:
+0	0	0	0	1	1	0	1	0	1	1	
+0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 6 
+Your v is: 1 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 0 
+Your v is: 9 
+
+TRUE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 2 
+Your v is: 10 
+
+FALSE!
+
+ Please insert 2 index of the tree for checking relation:
+Your u is: 1 
+Your v is: 2 
+
+FALSE!
